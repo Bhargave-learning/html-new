@@ -1,0 +1,28 @@
+.festival-bg-heading{
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-namaste-gesture_23-2147694900.jpg?w=740&t=st=1701094190~exp=1701094790~hmac=dcb1f0232e482c8870a23e4ea5b3f7a20a3824b9fd9b4d671b93105bf9724c68");
+    height: 100vh;
+    background-size: cover;
+}
+.bg-heading{
+    background-color: crimson;
+    text-align: center;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.heading{
+    color: rgb(202, 205, 50);
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.paragraph{
+    color: rgb(212, 195, 227);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button{
+    color: black;
+    background-color: green;
+    border-radius: 10px;
+    width: 140px;
+    height: 40px;
+
+}
